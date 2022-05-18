@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
  * main - executes the command ls -l /tmp in 5 different child processes
