@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * swap_char - swaps | and & for non-printed chars
  *
@@ -27,7 +26,7 @@ char *swap_char(char *input, int bool)
 			{
 				if (input[i + 1] != '&')
 					input[i] = 12;
-				else
+else
 					i++;
 			}
 		}
