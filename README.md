@@ -135,7 +135,7 @@ $ ./lively $ setenv NAME Holberton $ unsetenv NAME $ echo $NAME
 
 
 # Authors & Copyright
-Fatima Nankor Acheampong
+Fatima Nankor Acheampong and
 Enoch Enu.
 
 
